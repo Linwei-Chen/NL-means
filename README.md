@@ -2,6 +2,7 @@
 降噪算法NL-means的C++实现
 
 原图：
+
 ![lena.jpg](https://pic2.zhimg.com/80/v2-d31eaabadaf5a247adb9ba044e2fc1b5_hd.jpg)
 
 * 经过添加高斯噪点和椒盐早点后的图像，将使用高斯滤波、中值滤波、双边滤波以及论文中的NL-means算法对该图进行降噪处理：
